@@ -20,12 +20,12 @@ export default function Header() {
             </li>
           </Link>
           <Link to='/search'>
-            <li className='hidden sm:inline text-white hover:underline'>
+            <li className='text-white hover:underline'>
               Search Products
             </li>
           </Link>
           <Link to='/create-product'>
-            <li className='hidden sm:inline text-white hover:underline'>
+            <li className='text-white hover:underline'>
               Add a new Product
             </li>
           </Link>
